@@ -1,4 +1,4 @@
 # Theme for rainmeter polybar
 
 
--![hackz](https://raw.githubusercontent.com/eddieatjollyroger/mac-dotfiles/main/scrot.png)
+-![hackz](https://raw.githubusercontent.com/eddieatjollyroger/WindowsRice/main/Screenshot.png)
